@@ -1,0 +1,10 @@
+node_modules/
+
+lib/bs/
+lib/js/
+
+*.bs.js
+*.mjs
+*.js
+
+package-lock.json

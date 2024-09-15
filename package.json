@@ -1,0 +1,19 @@
+{
+  "name": "@robusto/fetch",
+  "version": "0.0.1",
+  "scripts": {
+    "res:build": "rescript",
+    "res:clean": "rescript clean",
+    "res:dev": "rescript -w"
+  },
+  "keywords": [
+    "rescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@rescript/core": "^1.6.0",
+    "rescript": "^11.1.4",
+    "rescript-webapi": "^0.9.1"
+  }
+}
